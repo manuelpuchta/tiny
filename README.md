@@ -5,8 +5,8 @@ Source: [How to make a beautiful tiny npm package and publish it](https://medium
 
 ---
 
-[![npm (scoped)](https://img.shields.io/npm/v/@bamblehorse/tiny.svg)](https://www.npmjs.com/package/@bamblehorse/tiny)
-[![npm bundle size (minified)](https://img.shields.io/bundlephobia/min/@bamblehorse/tiny.svg)](https://www.npmjs.com/package/@bamblehorse/tiny)
+[![npm (scoped)](https://img.shields.io/npm/v/manuelpuchta/tiny.svg)](https://www.npmjs.com/package/@manuelpuchta/tiny)
+[![npm bundle size (minified)](https://img.shields.io/bundlephobia/min/manuelpuchta/tiny.svg)](https://www.npmjs.com/package/@manuelpuchta/tiny)
 
 Removes all spaces from a string.
 
